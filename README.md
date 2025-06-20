@@ -22,7 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
-- **Cusotmer Behevior**
+- **Customer Behevior**
 - **Product Performance**
 - **Sales Trends**
 
